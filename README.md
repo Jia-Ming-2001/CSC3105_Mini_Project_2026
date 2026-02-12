@@ -31,15 +31,4 @@ Windows Command Prompt (CMD):
 
 venv\Scripts\activate
 
-
-Mac / Linux:
-
-source venv/bin/activate
-
-3. Install Required Packages
-pip install pandas numpy
-
-
-Verify installation:
-
-pip list
+Run the CSC3105.py file
