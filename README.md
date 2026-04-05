@@ -32,3 +32,7 @@ Windows Command Prompt (CMD):
 venv\Scripts\activate
 
 Run the CSC3105.py file
+
+
+Youtube Link:
+https://youtu.be/EFBMMkTxi2w?si=5xceJ8ehTSl2G5v8
